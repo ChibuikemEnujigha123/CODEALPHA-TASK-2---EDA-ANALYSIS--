@@ -3,6 +3,14 @@
 # Section A :Project Overview 
 The aim of the project is to basically gain a deeper understanding of the underlying patterns,facts and outliers regarding this Olympic Players data set .It explores participlation trends for countries,athlete details and facts regarding medals for both the Summer and Winter Games.The project showcases data cleaning,data visuals and most importantly Exploratory Data Analysis from over 271,000 athlete records 
 
+### PROJECT QUESTIONS
+
+##### 1.To what extent does the significant gender disparity (67.6% Male) seen in overall participation have effect across the top ten sports?
+
+##### 2.What is the connection between an athletes physical characteristics  (Height and Weight, post-cleaning) and the possiblity of being categorized in a low participation sports over a high participation sports ?
+
+##### 3.How does the exit of records with missing physical features (Age, Height, Weight) affect the representation of the top five participating countries in the world ?
+
 # SKILLS SHOWCASED IN THIS PROJECT
 
 I.Data Importation
